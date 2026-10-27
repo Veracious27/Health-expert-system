@@ -1,0 +1,13 @@
+{
+    "Malaria": ["fever", "chills", "sweating", "headache", "muscle pain", "nausea", "vomiting"],
+    "Asthma": ["shortness of breath", "wheezing", "chest tightness", "coughing", "difficulty breathing"],
+    "Jaundice": ["yellow skin", "yellow eyes", "dark urine", "fatigue", "abdominal pain", "loss of appetite"],
+    "Tuberculosis": ["persistent cough", "coughing blood", "chest pain", "weight loss", "night sweats", "fatigue"],
+    "Ulcers": ["stomach pain", "bloating", "heartburn", "nausea", "vomiting", "loss of appetite"],
+    "Migraine": ["severe headache", "nausea", "vomiting", "sensitivity to light", "sensitivity to sound"],
+    "H. Pylori": ["stomach pain", "bloating", "nausea", "loss of appetite", "bad breath", "acid reflux"],
+    "Hypertension": ["high blood pressure", "headache", "chest pain", "dizziness", "blurred vision"],
+    "Cholera": ["watery diarrhea", "vomiting", "dehydration", "muscle cramps", "low blood pressure"],
+    "Typhoid": ["high fever", "weakness", "stomach pain", "loss of appetite", "constipation", "diarrhea"],
+    "HIV/AIDS": ["weight loss", "night sweats", "fever", "swollen lymph nodes", "fatigue", "skin rashes"]
+}
